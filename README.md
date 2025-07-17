@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on building AI model with Computer Vision Applications (3D Gaussian Splatting).
+- 🌱 I’m currently learning building software with multiples framework such as Flutter, React.
+- 👯 I’m looking to collaborate on project that applying AI or Computer Vision for solutions.
+- 🤔 I’m looking for help with applying Machine learning or Deep learning models into software in real life.
+- 💬 Ask me about Computer vision, Machine learning, IOT, Website.
+- 📫 How to reach me: baodinhtfb@gmail.com or [Facebook](https://www.facebook.com/bao.inh.686879)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love doing social activities such clubs workshop, event management, academic research and writing social contents.
