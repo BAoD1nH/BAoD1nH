@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 ### Skills
 ---
 
-### Languages, Framework, Skills
+### Languages, Libraries and Framework
