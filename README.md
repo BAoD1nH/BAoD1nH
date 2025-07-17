@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### About me
+---
 
 - 🔭 I’m currently working on building AI model with Computer Vision Applications (3D Gaussian Splatting).
 - 🌱 I’m currently learning building software with multiples framework such as Flutter, React.
@@ -24,3 +25,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: baodinhtfb@gmail.com or [Facebook](https://www.facebook.com/bao.inh.686879)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love doing social activities such clubs workshop, event management, academic research and writing social contents.
+---
+### Skills
+---
+
+### Languages, Framework, Skills
