@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with applying Machine learning or Deep learning models into software in real life.
 - 💬 Ask me about Computer vision, Machine learning, IOT, Website.
 - 📫 How to reach me: baodinhtfb@gmail.com or [Facebook](https://www.facebook.com/bao.inh.686879)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love doing social activities such clubs workshop, event management, academic research and writing social contents.
+- ✨ Hobbies: Sports, Gyms, Games and Movies.
 ---
 ## 🚀 Skills
 
